@@ -1,0 +1,29 @@
+body {
+  background-color: #fef9f3;
+}
+.jumbotron {
+  color: #fff;
+  background: #fef9f3;
+}
+
+.navbar-inverse {
+  background: #262525;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+  font-family: 'Ultra', serif;
+}
+
+.navbar-inverse .navbar-brand {
+  color: white;
+  font-family: 'Ultra', serif;
+}
+
+p {
+  font-family: 'Ultra', serif;
+}
+.h2 {
+  font-family: 'Ultra', serif;
+}
+
